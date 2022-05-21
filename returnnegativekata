@@ -1,0 +1,12 @@
+class Kata {
+
+    fun makeNegative(x: Int): Int {
+        // your code here
+        return (-x)
+    }
+    
+    fun main() {
+        var result = makeNegative(10)
+        println(result)
+    }
+}
