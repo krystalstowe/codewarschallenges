@@ -1,0 +1,9 @@
+function nameShuffler(str){
+  //Shuffle It
+  
+  let name = 'john McClane';
+  let nameShuffler = 'McClane john'
+  return nameShuffler;
+}
+
+nameShuffler() 
