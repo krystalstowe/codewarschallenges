@@ -1,9 +1,7 @@
 function nameShuffler(str){
   //Shuffle It
-  
-  let name = 'john McClane';
-  let nameShuffler = 'McClane john'
-  return nameShuffler;
-}
+ 
+  return str.split(' ').reverse().join(' ')
 
-nameShuffler() 
+  
+}
