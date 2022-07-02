@@ -1,0 +1,18 @@
+//Write psuedo code first!
+//Psuedo code is the plain language used to talk through the logic of syntax
+
+//I remember the temperate converter from the book being ((9 / 5) * temp + 32)
+
+//How would I write this code?
+//Create a form thet allows users to enter in a temperature in Celius or Farenheit.
+//Once user enters in the temperature there will need to be a button that says "convert".
+//Once user clicks convert the equation will be ran and we will need to return or alert the result onto the screen
+
+//In class psuedo code 
+//only on click
+
+//get value out of input
+
+//convert the value
+
+//show the value to user
